@@ -184,61 +184,41 @@ function App() {
 
         {/* PROJECTS */}
         <section id="projects">
-          <h2>Projects</h2>
+  <h2>Projects</h2>
 
-          <p>
-            A selection of projects showcasing my skills in software
-            development, web development, databases, and data-driven
-            applications.
-          </p>
+  <p>
+    A selection of projects showcasing my skills in software
+    development, web development, databases, and data-driven
+    applications.
+  </p>
 
-          <div className="project-card">
-            <h3>Automatic Attendance Management System</h3>
+  <div className="project-card">
+    <h3>Automatic Attendance Management System</h3>
 
-            <p>
-              A database-backed web application designed to simplify
-              attendance management for educational institutions.
-            </p>
+    <p>
+      A database-backed web application designed to simplify
+      attendance management for educational institutions.
+    </p>
 
-            <p>
-              <strong>Technologies:</strong> Python, MySQL, HTML, CSS,
-              JavaScript
-            </p>
+    <p>
+      <strong>Technologies:</strong> Python, MySQL, HTML, CSS,
+      JavaScript
+    </p>
+  </div>
 
-            <div className="project-links">
-              <a href="#" target="_blank" rel="noreferrer">
-                GitHub
-              </a>
+  <div className="project-card">
+    <h3>Web-Based E-Learning Platform</h3>
 
-              <a href="#" target="_blank" rel="noreferrer">
-                Live Demo
-              </a>
-            </div>
-          </div>
+    <p>
+      An e-learning website featuring courses, videos, notes, quizzes
+      and progress tracking.
+    </p>
 
-          <div className="project-card">
-            <h3>Web-Based E-Learning Platform</h3>
-
-            <p>
-              An e-learning website featuring courses, videos, notes, quizzes
-              and progress tracking.
-            </p>
-
-            <p>
-              <strong>Technologies:</strong> HTML, CSS, JavaScript
-            </p>
-
-            <div className="project-links">
-              <a href="#" target="_blank" rel="noreferrer">
-                GitHub
-              </a>
-
-              <a href="#" target="_blank" rel="noreferrer">
-                Live Demo
-              </a>
-            </div>
-          </div>
-        </section>
+    <p>
+      <strong>Technologies:</strong> HTML, CSS, JavaScript
+    </p>
+  </div>
+</section>
 
         {/* CERTIFICATIONS */}
         <section id="certifications">
