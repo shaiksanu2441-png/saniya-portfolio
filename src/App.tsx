@@ -307,6 +307,12 @@ function App() {
               shaiksanu2441@gmail.com
             </a>
           </p>
+          <p>
+            Phone:{" "}
+            <a href="tel:9059042441">
+              9059042441
+             </a>
+          </p>
 
           <div className="contact-links">
             <a
